@@ -1,1 +1,1 @@
-To see how the changes are made
+To see how the changes are made. Note, this is after a branch is made on terminal
